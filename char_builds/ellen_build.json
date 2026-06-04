@@ -1,6 +1,6 @@
 {
   "disks": {
-    "hormone punk": [
+    "woodpecker electro": [
       {
         "substat_values": {
           "hp": 0,
@@ -100,7 +100,7 @@
         ]
       }
     ],
-    "woodpecker electro": [
+    "hormone punk": [
       {
         "substat_values": {
           "hp": 0,
@@ -200,7 +200,7 @@
         ]
       }
     ],
-    "puffer electro": [
+    "shadow harmony": [
       {
         "substat_values": {
           "hp": 0,
@@ -300,7 +300,7 @@
         ]
       }
     ],
-    "shadow harmony": [
+    "puffer electro": [
       {
         "substat_values": {
           "hp": 0,

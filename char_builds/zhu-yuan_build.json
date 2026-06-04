@@ -1,109 +1,5 @@
 {
   "disks": {
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.625,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit dmg%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "ether dmg%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "zhu-yuan"
-        ]
-      }
-    ],
-    "astral voice": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.625,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit dmg%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "ether dmg%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "zhu-yuan"
-        ]
-      }
-    ],
     "woodpecker electro": [
       {
         "substat_values": {
@@ -157,6 +53,58 @@
       }
     ],
     "dawn's bloom": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.625,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit dmg%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "ether dmg%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "zhu-yuan"
+        ]
+      }
+    ],
+    "chaotic metal": [
       {
         "substat_values": {
           "hp": 0,
@@ -312,7 +260,59 @@
         ]
       }
     ],
-    "chaotic metal": [
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.625,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit dmg%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "ether dmg%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "zhu-yuan"
+        ]
+      }
+    ],
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,

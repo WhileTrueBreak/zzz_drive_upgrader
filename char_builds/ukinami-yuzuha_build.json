@@ -1,56 +1,6 @@
 {
   "disks": {
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.8125,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0.4375,
-          "crit dmg%": 0.4375,
-          "anomaly proficiency": 0.625
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery",
-            "atk%"
-          ]
-        },
-        "char": [
-          "ukinami-yuzuha"
-        ]
-      },
+    "chaos jazz": [
       {
         "substat_values": {
           "hp": 0,
@@ -63,58 +13,6 @@
           "crit rate%": 0,
           "crit dmg%": 0,
           "anomaly proficiency": 0.5
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery",
-            "atk%"
-          ]
-        },
-        "char": [
-          "ukinami-yuzuha"
-        ]
-      }
-    ],
-    "astral voice": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.8125,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0.4375,
-          "crit dmg%": 0.4375,
-          "anomaly proficiency": 0.625
         },
         "1": {
           "main_stats": [
@@ -209,14 +107,116 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.8125,
+          "atk": 0.75,
           "atk%": 1,
           "def": 0,
           "def%": 0,
           "pen": 0.25,
-          "crit rate%": 0.4375,
-          "crit dmg%": 0.4375,
-          "anomaly proficiency": 0.625
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery",
+            "atk%"
+          ]
+        },
+        "char": [
+          "ukinami-yuzuha"
+        ]
+      },
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.75,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery",
+            "atk%"
+          ]
+        },
+        "char": [
+          "ukinami-yuzuha"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.75,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
         },
         "1": {
           "main_stats": [
@@ -311,14 +311,14 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.8125,
+          "atk": 0.75,
           "atk%": 1,
           "def": 0,
           "def%": 0,
           "pen": 0.25,
-          "crit rate%": 0.4375,
-          "crit dmg%": 0.4375,
-          "anomaly proficiency": 0.625
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
         },
         "1": {
           "main_stats": [
@@ -413,14 +413,14 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.8125,
+          "atk": 0.75,
           "atk%": 1,
           "def": 0,
           "def%": 0,
           "pen": 0.25,
-          "crit rate%": 0.4375,
-          "crit dmg%": 0.4375,
-          "anomaly proficiency": 0.625
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
         },
         "1": {
           "main_stats": [
@@ -510,19 +510,19 @@
         ]
       }
     ],
-    "chaos jazz": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.8125,
+          "atk": 0.75,
           "atk%": 1,
           "def": 0,
           "def%": 0,
           "pen": 0.25,
-          "crit rate%": 0.4375,
-          "crit dmg%": 0.4375,
-          "anomaly proficiency": 0.625
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
         },
         "1": {
           "main_stats": [

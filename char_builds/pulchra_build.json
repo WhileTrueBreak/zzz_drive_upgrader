@@ -1,18 +1,18 @@
 {
   "disks": {
-    "astral voice": [
+    "king of the summit": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
           "atk": 0.25,
-          "atk%": 0.625,
+          "atk%": 0.75,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
         },
         "1": {
           "main_stats": [
@@ -31,8 +31,7 @@
         },
         "4": {
           "main_stats": [
-            "crit rate%",
-            "crit dmg%"
+            "anomaly proficiency"
           ]
         },
         "5": {
@@ -80,7 +79,8 @@
         },
         "4": {
           "main_stats": [
-            "anomaly proficiency"
+            "crit rate%",
+            "crit dmg%"
           ]
         },
         "5": {
@@ -105,13 +105,13 @@
           "hp": 0,
           "hp%": 0,
           "atk": 0.25,
-          "atk%": 0.625,
+          "atk%": 0.75,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
         },
         "1": {
           "main_stats": [
@@ -130,8 +130,7 @@
         },
         "4": {
           "main_stats": [
-            "crit rate%",
-            "crit dmg%"
+            "anomaly proficiency"
           ]
         },
         "5": {
@@ -179,7 +178,8 @@
         },
         "4": {
           "main_stats": [
-            "anomaly proficiency"
+            "crit rate%",
+            "crit dmg%"
           ]
         },
         "5": {
@@ -204,13 +204,13 @@
           "hp": 0,
           "hp%": 0,
           "atk": 0.25,
-          "atk%": 0.625,
+          "atk%": 0.75,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
         },
         "1": {
           "main_stats": [
@@ -229,8 +229,7 @@
         },
         "4": {
           "main_stats": [
-            "crit rate%",
-            "crit dmg%"
+            "anomaly proficiency"
           ]
         },
         "5": {
@@ -278,7 +277,8 @@
         },
         "4": {
           "main_stats": [
-            "anomaly proficiency"
+            "crit rate%",
+            "crit dmg%"
           ]
         },
         "5": {
@@ -297,19 +297,19 @@
         ]
       }
     ],
-    "king of the summit": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
           "atk": 0.25,
-          "atk%": 0.625,
+          "atk%": 0.75,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
         },
         "1": {
           "main_stats": [
@@ -328,8 +328,7 @@
         },
         "4": {
           "main_stats": [
-            "crit rate%",
-            "crit dmg%"
+            "anomaly proficiency"
           ]
         },
         "5": {
@@ -377,7 +376,8 @@
         },
         "4": {
           "main_stats": [
-            "anomaly proficiency"
+            "crit rate%",
+            "crit dmg%"
           ]
         },
         "5": {
@@ -402,13 +402,13 @@
           "hp": 0,
           "hp%": 0,
           "atk": 0.25,
-          "atk%": 0.625,
+          "atk%": 0.75,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
         },
         "1": {
           "main_stats": [
@@ -427,8 +427,7 @@
         },
         "4": {
           "main_stats": [
-            "crit rate%",
-            "crit dmg%"
+            "anomaly proficiency"
           ]
         },
         "5": {
@@ -476,7 +475,8 @@
         },
         "4": {
           "main_stats": [
-            "anomaly proficiency"
+            "crit rate%",
+            "crit dmg%"
           ]
         },
         "5": {

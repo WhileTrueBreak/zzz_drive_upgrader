@@ -1,197 +1,5 @@
 {
   "disks": {
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.75,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0.5,
-          "crit dmg%": 0.5,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen"
-          ]
-        },
-        "char": [
-          "sunna"
-        ]
-      },
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.75,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 0.5
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen"
-          ]
-        },
-        "char": [
-          "sunna"
-        ]
-      }
-    ],
-    "astral voice": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.75,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0.5,
-          "crit dmg%": 0.5,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen"
-          ]
-        },
-        "char": [
-          "sunna"
-        ]
-      },
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.75,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 0.5
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen"
-          ]
-        },
-        "char": [
-          "sunna"
-        ]
-      }
-    ],
     "swing jazz": [
       {
         "substat_values": {
@@ -202,9 +10,9 @@
           "def": 0,
           "def%": 0,
           "pen": 0.25,
-          "crit rate%": 0.5,
-          "crit dmg%": 0.5,
-          "anomaly proficiency": 0
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
         },
         "1": {
           "main_stats": [
@@ -298,9 +106,201 @@
           "def": 0,
           "def%": 0,
           "pen": 0.25,
-          "crit rate%": 0.5,
-          "crit dmg%": 0.5,
-          "anomaly proficiency": 0
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "sunna"
+        ]
+      },
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.75,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "sunna"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.75,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "sunna"
+        ]
+      },
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.75,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "sunna"
+        ]
+      }
+    ],
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.75,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.5
         },
         "1": {
           "main_stats": [

@@ -1,108 +1,108 @@
 {
   "disks": {
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.75,
-          "atk%": 0,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 0.5,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "impact",
-            "atk%"
-          ]
-        },
-        "char": [
-          "ju-fufu"
-        ]
-      }
-    ],
-    "astral voice": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.75,
-          "atk%": 0,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 0.5,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "impact",
-            "atk%"
-          ]
-        },
-        "char": [
-          "ju-fufu"
-        ]
-      }
-    ],
     "woodpecker electro": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.75,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 1,
+          "crit dmg%": 0.5,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact",
+            "atk%"
+          ]
+        },
+        "char": [
+          "ju-fufu"
+        ]
+      }
+    ],
+    "king of the summit": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.75,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 1,
+          "crit dmg%": 0.5,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact",
+            "atk%"
+          ]
+        },
+        "char": [
+          "ju-fufu"
+        ]
+      }
+    ],
+    "hormone punk": [
       {
         "substat_values": {
           "hp": 0,
@@ -255,7 +255,7 @@
         ]
       }
     ],
-    "king of the summit": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,

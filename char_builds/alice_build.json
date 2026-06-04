@@ -1,6 +1,6 @@
 {
   "disks": {
-    "freedom blues": [
+    "chaos jazz": [
       {
         "substat_values": {
           "hp": 0,
@@ -104,111 +104,111 @@
         ]
       }
     ],
+    "freedom blues": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "physical dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "alice"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "physical dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "alice"
+        ]
+      }
+    ],
     "fanged metal": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 1
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "anomaly proficiency",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "pen ratio%",
-            "physical dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery"
-          ]
-        },
-        "char": [
-          "alice"
-        ]
-      }
-    ],
-    "puffer electro": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 1
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "anomaly proficiency",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "pen ratio%",
-            "physical dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery"
-          ]
-        },
-        "char": [
-          "alice"
-        ]
-      }
-    ],
-    "chaos jazz": [
       {
         "substat_values": {
           "hp": 0,
@@ -312,7 +312,7 @@
         ]
       }
     ],
-    "hormone punk": [
+    "puffer electro": [
       {
         "substat_values": {
           "hp": 0,

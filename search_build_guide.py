@@ -166,7 +166,7 @@ def get_build_stats(char_link):
 
     build_guide_content = soup.find('div', class_='build-tips')
     build_main_list = build_guide_content.find_all('div', class_='main-stats')
-    build_sub_list = build_guide_content.find_all('div', class_='row')
+    build_sub_list = build_guide_content.find('div', class_='sub-stats')
 
     builds = []
     for n in range(len(build_main_list)):
@@ -176,10 +176,9 @@ def get_build_stats(char_link):
             stats = re.split('[>=]+', main_stat_element.text)
             for stat in stats:
                 main_stat_builds[i].append(stat.strip().lower())
-        substat_element = build_sub_list[n].find('div', class_= 'sub-stats')
-        if substat_element is None:
+        if build_sub_list is None:
             return None
-        substat_build = substat_element.find('p').text
+        substat_build = build_sub_list.find('p').text
         substat_values = parse_substat_build(substat_build)
         builds.append({'main_stat_builds': main_stat_builds, 'substat_values': substat_values})
     return builds
@@ -262,8 +261,8 @@ def get_last_profile_updated(char_link):
     if label:
         # the date is usually in the next element
         date_str = label.find_next().get_text(strip=True)
-        date_str = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', date_str)
-        return datetime.strptime(date_str, "%B %d, %Y")
+        # date_str = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', date_str)
+        return datetime.strptime(date_str, "%d/%B/%Y")
 
     return None
 

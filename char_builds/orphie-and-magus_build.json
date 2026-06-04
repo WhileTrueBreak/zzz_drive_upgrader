@@ -1,57 +1,5 @@
 {
   "disks": {
-    "astral voice": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit dmg%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "fire dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen",
-            "atk%"
-          ]
-        },
-        "char": [
-          "orphie-and-magus"
-        ]
-      }
-    ],
     "swing jazz": [
       {
         "substat_values": {
@@ -104,7 +52,7 @@
         ]
       }
     ],
-    "shadow harmony": [
+    "moonlight lullaby": [
       {
         "substat_values": {
           "hp": 0,
@@ -156,7 +104,59 @@
         ]
       }
     ],
-    "moonlight lullaby": [
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit dmg%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "fire dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "atk%"
+          ]
+        },
+        "char": [
+          "orphie-and-magus"
+        ]
+      }
+    ],
+    "shadow harmony": [
       {
         "substat_values": {
           "hp": 0,

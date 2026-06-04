@@ -1,6 +1,6 @@
 {
   "disks": {
-    "hormone punk": [
+    "chaos jazz": [
       {
         "substat_values": {
           "hp": 0,
@@ -51,7 +51,109 @@
         ]
       }
     ],
-    "astral voice": [
+    "chaotic metal": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ether dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "nangong-yu"
+        ]
+      }
+    ],
+    "phaethon's melody": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ether dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "nangong-yu"
+        ]
+      }
+    ],
+    "hormone punk": [
       {
         "substat_values": {
           "hp": 0,
@@ -204,109 +306,7 @@
         ]
       }
     ],
-    "phaethon's melody": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 1
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ether dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery"
-          ]
-        },
-        "char": [
-          "nangong-yu"
-        ]
-      }
-    ],
-    "chaos jazz": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 1
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ether dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery"
-          ]
-        },
-        "char": [
-          "nangong-yu"
-        ]
-      }
-    ],
-    "chaotic metal": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,

@@ -1,5 +1,109 @@
 {
   "disks": {
+    "woodpecker electro": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 0.625,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "crit dmg%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "harumasa"
+        ]
+      }
+    ],
+    "shadow harmony": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 0.625,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "crit dmg%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "harumasa"
+        ]
+      }
+    ],
     "hormone punk": [
       {
         "substat_values": {
@@ -104,7 +208,7 @@
         ]
       }
     ],
-    "woodpecker electro": [
+    "thunder metal": [
       {
         "substat_values": {
           "hp": 0,
@@ -157,110 +261,6 @@
       }
     ],
     "branch & blade song": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.4375,
-          "crit rate%": 1,
-          "crit dmg%": 0.625,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "crit dmg%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "electric dmg%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "harumasa"
-        ]
-      }
-    ],
-    "shadow harmony": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.4375,
-          "crit rate%": 1,
-          "crit dmg%": 0.625,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "crit dmg%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "electric dmg%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "harumasa"
-        ]
-      }
-    ],
-    "thunder metal": [
       {
         "substat_values": {
           "hp": 0,
