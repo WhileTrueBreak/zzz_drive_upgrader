@@ -1,0 +1,268 @@
+{
+  "disks": {
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.625,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "electric dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact"
+          ]
+        },
+        "char": [
+          "trigger"
+        ]
+      }
+    ],
+    "swing jazz": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.625,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "electric dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact"
+          ]
+        },
+        "char": [
+          "trigger"
+        ]
+      }
+    ],
+    "shockstar disco": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.625,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "electric dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact"
+          ]
+        },
+        "char": [
+          "trigger"
+        ]
+      }
+    ],
+    "king of the summit": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.625,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "electric dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact"
+          ]
+        },
+        "char": [
+          "trigger"
+        ]
+      }
+    ],
+    "proto punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.625,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "electric dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact"
+          ]
+        },
+        "char": [
+          "trigger"
+        ]
+      }
+    ]
+  },
+  "version": [
+    [
+      "1",
+      "6"
+    ],
+    [
+      "2",
+      "0"
+    ],
+    [
+      "2",
+      "5"
+    ]
+  ]
+}

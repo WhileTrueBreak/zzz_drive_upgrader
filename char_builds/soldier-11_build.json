@@ -1,0 +1,389 @@
+{
+  "disks": {
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.625
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ],
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.625
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ],
+    "woodpecker electro": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.625
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ],
+    "dawn's bloom": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.625
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ],
+    "inferno metal": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.625
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ],
+    "puffer electro": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.625
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ],
+    "branch & blade song": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.8125,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.4375,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.625
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ]
+  },
+  "version": [
+    [
+      "2",
+      "5"
+    ],
+    [
+      "2",
+      "5"
+    ],
+    [
+      "2",
+      "5"
+    ]
+  ]
+}

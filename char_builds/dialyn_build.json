@@ -1,0 +1,171 @@
+{
+  "disks": {
+    "king of the summit": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 1,
+          "crit dmg%": 0.75,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "physical dmg%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "dialyn"
+        ]
+      }
+    ],
+    "swing jazz": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 1,
+          "crit dmg%": 0.75,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "physical dmg%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "dialyn"
+        ]
+      }
+    ],
+    "woodpecker electro": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 1,
+          "crit dmg%": 0.75,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "physical dmg%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "dialyn"
+        ]
+      }
+    ]
+  },
+  "version": [
+    [
+      "2",
+      "4"
+    ],
+    [
+      "2",
+      "4"
+    ],
+    [
+      "2",
+      "5"
+    ]
+  ]
+}

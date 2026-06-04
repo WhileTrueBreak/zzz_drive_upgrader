@@ -1,0 +1,263 @@
+{
+  "disks": {
+    "yunkui tales": [
+      {
+        "substat_values": {
+          "hp": 0.625,
+          "hp%": 1,
+          "atk": 0,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0,
+          "crit rate%": 0.25,
+          "crit dmg%": 0.25,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "zhao"
+        ]
+      }
+    ],
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0.625,
+          "hp%": 1,
+          "atk": 0,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0,
+          "crit rate%": 0.25,
+          "crit dmg%": 0.25,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "zhao"
+        ]
+      }
+    ],
+    "moonlight lullaby": [
+      {
+        "substat_values": {
+          "hp": 0.625,
+          "hp%": 1,
+          "atk": 0,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0,
+          "crit rate%": 0.25,
+          "crit dmg%": 0.25,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "zhao"
+        ]
+      }
+    ],
+    "bunny in wonderland": [
+      {
+        "substat_values": {
+          "hp": 0.625,
+          "hp%": 1,
+          "atk": 0,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0,
+          "crit rate%": 0.25,
+          "crit dmg%": 0.25,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "zhao"
+        ]
+      }
+    ],
+    "swing jazz": [
+      {
+        "substat_values": {
+          "hp": 0.625,
+          "hp%": 1,
+          "atk": 0,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0,
+          "crit rate%": 0.25,
+          "crit dmg%": 0.25,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "zhao"
+        ]
+      }
+    ]
+  },
+  "version": [
+    [
+      "2",
+      "5"
+    ],
+    [
+      "2",
+      "5"
+    ],
+    [
+      "2",
+      "5"
+    ]
+  ]
+}

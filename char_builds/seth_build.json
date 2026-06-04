@@ -1,0 +1,382 @@
+{
+  "disks": {
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.5,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.75
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "seth"
+        ]
+      }
+    ],
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.5,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.75
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "seth"
+        ]
+      }
+    ],
+    "freedom blues": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.5,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.75
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "seth"
+        ]
+      }
+    ],
+    "swing jazz": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.5,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.75
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "seth"
+        ]
+      }
+    ],
+    "chaos jazz": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.5,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.75
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "seth"
+        ]
+      }
+    ],
+    "shockstar disco": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.5,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.75
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "seth"
+        ]
+      }
+    ],
+    "proto punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.5,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 0.75
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "electric dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "seth"
+        ]
+      }
+    ]
+  },
+  "version": [
+    [
+      "1",
+      "5"
+    ],
+    [
+      "1",
+      "5"
+    ],
+    [
+      "2",
+      "5"
+    ]
+  ]
+}
