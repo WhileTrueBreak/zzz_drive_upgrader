@@ -1,6 +1,58 @@
 {
   "disks": {
-    "woodpecker electro": [
+    "branch & blade song": [
+      {
+        "substat_values": {
+          "hp": 0.5,
+          "hp%": 0.75,
+          "atk": 0.25,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0,
+          "crit rate%": 1,
+          "crit dmg%": 0.75,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "crit dmg%",
+            "hp%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "physical dmg%",
+            "hp%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "char": [
+          "billy-starlight"
+        ]
+      }
+    ],
+    "hormone punk": [
       {
         "substat_values": {
           "hp": 0.5,
@@ -104,7 +156,7 @@
         ]
       }
     ],
-    "white water ballad": [
+    "bunny in wonderland": [
       {
         "substat_values": {
           "hp": 0.5,
@@ -156,7 +208,7 @@
         ]
       }
     ],
-    "hormone punk": [
+    "white water ballad": [
       {
         "substat_values": {
           "hp": 0.5,
@@ -312,59 +364,7 @@
         ]
       }
     ],
-    "branch & blade song": [
-      {
-        "substat_values": {
-          "hp": 0.5,
-          "hp%": 0.75,
-          "atk": 0.25,
-          "atk%": 0,
-          "def": 0,
-          "def%": 0,
-          "pen": 0,
-          "crit rate%": 1,
-          "crit dmg%": 0.75,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "crit dmg%",
-            "hp%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "physical dmg%",
-            "hp%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "hp%"
-          ]
-        },
-        "char": [
-          "billy-starlight"
-        ]
-      }
-    ],
-    "bunny in wonderland": [
+    "woodpecker electro": [
       {
         "substat_values": {
           "hp": 0.5,

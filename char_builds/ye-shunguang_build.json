@@ -1,158 +1,5 @@
 {
   "disks": {
-    "fanged metal": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "pen ratio%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "ye-shunguang"
-        ]
-      }
-    ],
-    "woodpecker electro": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "pen ratio%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "ye-shunguang"
-        ]
-      }
-    ],
-    "puffer electro": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "pen ratio%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "ye-shunguang"
-        ]
-      }
-    ],
     "branch & blade song": [
       {
         "substat_values": {
@@ -255,7 +102,7 @@
         ]
       }
     ],
-    "white water ballad": [
+    "puffer electro": [
       {
         "substat_values": {
           "hp": 0,
@@ -307,6 +154,159 @@
       }
     ],
     "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "ye-shunguang"
+        ]
+      }
+    ],
+    "white water ballad": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "ye-shunguang"
+        ]
+      }
+    ],
+    "fanged metal": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "ye-shunguang"
+        ]
+      }
+    ],
+    "woodpecker electro": [
       {
         "substat_values": {
           "hp": 0,

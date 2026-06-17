@@ -1,56 +1,5 @@
 {
   "disks": {
-    "chaos jazz": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 1
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ice dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery"
-          ]
-        },
-        "char": [
-          "promeia"
-        ]
-      }
-    ],
     "notes from the chained": [
       {
         "substat_values": {
@@ -153,6 +102,108 @@
         ]
       }
     ],
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ice dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "promeia"
+        ]
+      }
+    ],
+    "chaos jazz": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.75,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.5,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ice dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "promeia"
+        ]
+      }
+    ],
     "hormone punk": [
       {
         "substat_values": {
@@ -205,57 +256,6 @@
       }
     ],
     "freedom blues": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.75,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.5,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 1
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ice dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery"
-          ]
-        },
-        "char": [
-          "promeia"
-        ]
-      }
-    ],
-    "astral voice": [
       {
         "substat_values": {
           "hp": 0,

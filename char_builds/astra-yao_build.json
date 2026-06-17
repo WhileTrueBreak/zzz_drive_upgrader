@@ -1,6 +1,6 @@
 {
   "disks": {
-    "astral voice": [
+    "hormone punk": [
       {
         "substat_values": {
           "hp": 0,
@@ -98,7 +98,7 @@
         ]
       }
     ],
-    "moonlight lullaby": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,
@@ -294,7 +294,7 @@
         ]
       }
     ],
-    "hormone punk": [
+    "moonlight lullaby": [
       {
         "substat_values": {
           "hp": 0,

@@ -1,5 +1,109 @@
 {
   "disks": {
+    "proto punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 1,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0.625,
+          "crit dmg%": 0.625,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "crit dmg%",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "physical dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "pan-yinhu"
+        ]
+      }
+    ],
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 1,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0.625,
+          "crit dmg%": 0.625,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "crit dmg%",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "physical dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "pan-yinhu"
+        ]
+      }
+    ],
     "fanged metal": [
       {
         "substat_values": {
@@ -105,110 +209,6 @@
       }
     ],
     "swing jazz": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 1,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0.625,
-          "crit dmg%": 0.625,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "crit dmg%",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "physical dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "pan-yinhu"
-        ]
-      }
-    ],
-    "astral voice": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 1,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0.625,
-          "crit dmg%": 0.625,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "crit dmg%",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "physical dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "pan-yinhu"
-        ]
-      }
-    ],
-    "proto punk": [
       {
         "substat_values": {
           "hp": 0,

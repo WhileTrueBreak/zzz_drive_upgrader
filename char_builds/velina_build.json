@@ -1,17 +1,171 @@
 {
-  "disks": {},
+  "disks": {
+    "swing jazz": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.625,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "wind dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "velina"
+        ]
+      }
+    ],
+    "moonlight lullaby": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.625,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "wind dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "velina"
+        ]
+      }
+    ],
+    "wuthering salon": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.625,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "wind dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "velina"
+        ]
+      }
+    ]
+  },
   "version": [
     [
-      0,
-      0
+      "3",
+      "0"
     ],
     [
-      0,
-      0
+      "3",
+      "0"
     ],
     [
-      0,
-      0
+      "3",
+      "0"
     ]
   ]
 }

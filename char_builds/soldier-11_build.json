@@ -1,6 +1,6 @@
 {
   "disks": {
-    "woodpecker electro": [
+    "inferno metal": [
       {
         "substat_values": {
           "hp": 0,
@@ -53,7 +53,7 @@
         ]
       }
     ],
-    "dawn's bloom": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,
@@ -159,7 +159,7 @@
         ]
       }
     ],
-    "branch & blade song": [
+    "dawn's bloom": [
       {
         "substat_values": {
           "hp": 0,
@@ -265,7 +265,7 @@
         ]
       }
     ],
-    "inferno metal": [
+    "woodpecker electro": [
       {
         "substat_values": {
           "hp": 0,
@@ -318,7 +318,7 @@
         ]
       }
     ],
-    "astral voice": [
+    "branch & blade song": [
       {
         "substat_values": {
           "hp": 0,

@@ -1,108 +1,6 @@
 {
   "disks": {
-    "woodpecker electro": [
-      {
-        "substat_values": {
-          "hp": 0.625,
-          "hp%": 0.8125,
-          "atk": 0.25,
-          "atk%": 0.4375,
-          "def": 0,
-          "def%": 0,
-          "pen": 0,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "fire dmg%",
-            "hp%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "hp%"
-          ]
-        },
-        "char": [
-          "manato"
-        ]
-      }
-    ],
-    "branch & blade song": [
-      {
-        "substat_values": {
-          "hp": 0.625,
-          "hp%": 0.8125,
-          "atk": 0.25,
-          "atk%": 0.4375,
-          "def": 0,
-          "def%": 0,
-          "pen": 0,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "fire dmg%",
-            "hp%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "hp%"
-          ]
-        },
-        "char": [
-          "manato"
-        ]
-      }
-    ],
-    "yunkui tales": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0.625,
@@ -204,7 +102,109 @@
         ]
       }
     ],
-    "astral voice": [
+    "yunkui tales": [
+      {
+        "substat_values": {
+          "hp": 0.625,
+          "hp%": 0.8125,
+          "atk": 0.25,
+          "atk%": 0.4375,
+          "def": 0,
+          "def%": 0,
+          "pen": 0,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "fire dmg%",
+            "hp%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "char": [
+          "manato"
+        ]
+      }
+    ],
+    "woodpecker electro": [
+      {
+        "substat_values": {
+          "hp": 0.625,
+          "hp%": 0.8125,
+          "atk": 0.25,
+          "atk%": 0.4375,
+          "def": 0,
+          "def%": 0,
+          "pen": 0,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "fire dmg%",
+            "hp%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "hp%"
+          ]
+        },
+        "char": [
+          "manato"
+        ]
+      }
+    ],
+    "branch & blade song": [
       {
         "substat_values": {
           "hp": 0.625,

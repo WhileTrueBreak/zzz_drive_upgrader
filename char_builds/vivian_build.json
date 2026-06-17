@@ -1,6 +1,6 @@
 {
   "disks": {
-    "chaos jazz": [
+    "chaotic metal": [
       {
         "substat_values": {
           "hp": 0,
@@ -51,7 +51,58 @@
         ]
       }
     ],
-    "chaotic metal": [
+    "phaethon's melody": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ether dmg%",
+            "pen ratio%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "anomaly mastery"
+          ]
+        },
+        "char": [
+          "vivian"
+        ]
+      }
+    ],
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,
@@ -153,7 +204,7 @@
         ]
       }
     ],
-    "phaethon's melody": [
+    "chaos jazz": [
       {
         "substat_values": {
           "hp": 0,
@@ -256,57 +307,6 @@
       }
     ],
     "freedom blues": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 1
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ether dmg%",
-            "pen ratio%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "anomaly mastery"
-          ]
-        },
-        "char": [
-          "vivian"
-        ]
-      }
-    ],
-    "astral voice": [
       {
         "substat_values": {
           "hp": 0,

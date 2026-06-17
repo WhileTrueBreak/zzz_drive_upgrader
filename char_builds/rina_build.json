@@ -1,5 +1,56 @@
 {
   "disks": {
+    "astral voice": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.25,
+          "atk%": 0.625,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 0,
+          "crit dmg%": 0,
+          "anomaly proficiency": 1
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "atk%"
+          ]
+        },
+        "char": [
+          "rina"
+        ]
+      }
+    ],
     "puffer electro": [
       {
         "substat_values": {
@@ -51,7 +102,7 @@
         ]
       }
     ],
-    "thunder metal": [
+    "moonlight lullaby": [
       {
         "substat_values": {
           "hp": 0,
@@ -102,7 +153,7 @@
         ]
       }
     ],
-    "moonlight lullaby": [
+    "thunder metal": [
       {
         "substat_values": {
           "hp": 0,
@@ -205,57 +256,6 @@
       }
     ],
     "swing jazz": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 0,
-          "crit dmg%": 0,
-          "anomaly proficiency": 1
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen",
-            "atk%"
-          ]
-        },
-        "char": [
-          "rina"
-        ]
-      }
-    ],
-    "astral voice": [
       {
         "substat_values": {
           "hp": 0,

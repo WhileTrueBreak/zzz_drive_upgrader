@@ -1,6 +1,6 @@
 {
   "disks": {
-    "woodpecker electro": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,
@@ -104,58 +104,6 @@
         ]
       }
     ],
-    "branch & blade song": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.4375,
-          "atk%": 0.625,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 0.8125,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit dmg%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ice dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "hugo"
-        ]
-      }
-    ],
     "hormone punk": [
       {
         "substat_values": {
@@ -208,7 +156,7 @@
         ]
       }
     ],
-    "polar metal": [
+    "woodpecker electro": [
       {
         "substat_values": {
           "hp": 0,
@@ -260,7 +208,59 @@
         ]
       }
     ],
-    "astral voice": [
+    "branch & blade song": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.4375,
+          "atk%": 0.625,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.25,
+          "crit rate%": 1,
+          "crit dmg%": 0.8125,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit dmg%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ice dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "hugo"
+        ]
+      }
+    ],
+    "polar metal": [
       {
         "substat_values": {
           "hp": 0,

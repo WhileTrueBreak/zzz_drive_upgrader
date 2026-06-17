@@ -1,6 +1,6 @@
 {
   "disks": {
-    "astral voice": [
+    "proto punk": [
       {
         "substat_values": {
           "hp": 0,
@@ -102,7 +102,7 @@
         ]
       }
     ],
-    "freedom blues": [
+    "astral voice": [
       {
         "substat_values": {
           "hp": 0,
@@ -306,7 +306,7 @@
         ]
       }
     ],
-    "proto punk": [
+    "freedom blues": [
       {
         "substat_values": {
           "hp": 0,
