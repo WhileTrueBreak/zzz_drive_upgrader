@@ -1,17 +1,17 @@
 {
   "disks": {
-    "yunkui tales": [
+    "moonlight lullaby": [
       {
         "substat_values": {
-          "hp": 0.625,
+          "hp": 0.7,
           "hp%": 1,
           "atk": 0,
           "atk%": 0,
           "def": 0,
           "def%": 0,
           "pen": 0,
-          "crit rate%": 0.25,
-          "crit dmg%": 0.25,
+          "crit rate%": 0.48999999999999994,
+          "crit dmg%": 0.48999999999999994,
           "anomaly proficiency": 0
         },
         "1": {
@@ -49,18 +49,18 @@
         ]
       }
     ],
-    "moonlight lullaby": [
+    "yunkui tales": [
       {
         "substat_values": {
-          "hp": 0.625,
+          "hp": 0.7,
           "hp%": 1,
           "atk": 0,
           "atk%": 0,
           "def": 0,
           "def%": 0,
           "pen": 0,
-          "crit rate%": 0.25,
-          "crit dmg%": 0.25,
+          "crit rate%": 0.48999999999999994,
+          "crit dmg%": 0.48999999999999994,
           "anomaly proficiency": 0
         },
         "1": {

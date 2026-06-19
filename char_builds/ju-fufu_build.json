@@ -1,68 +1,17 @@
 {
   "disks": {
-    "proto punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.75,
-          "atk%": 0,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 0.5,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "impact",
-            "atk%"
-          ]
-        },
-        "char": [
-          "ju-fufu"
-        ]
-      }
-    ],
     "astral voice": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.75,
+          "atk": 0.7,
           "atk%": 0,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
-          "crit dmg%": 0.5,
+          "crit dmg%": 0.48999999999999994,
           "anomaly proficiency": 0
         },
         "1": {
@@ -102,69 +51,18 @@
         ]
       }
     ],
-    "shockstar disco": [
+    "proto punk": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.75,
+          "atk": 0.7,
           "atk%": 0,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
-          "crit dmg%": 0.5,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "impact",
-            "atk%"
-          ]
-        },
-        "char": [
-          "ju-fufu"
-        ]
-      }
-    ],
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.75,
-          "atk%": 0,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 0.5,
+          "crit dmg%": 0.48999999999999994,
           "anomaly proficiency": 0
         },
         "1": {
@@ -209,13 +107,13 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.75,
+          "atk": 0.7,
           "atk%": 0,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
-          "crit dmg%": 0.5,
+          "crit dmg%": 0.48999999999999994,
           "anomaly proficiency": 0
         },
         "1": {
@@ -255,18 +153,18 @@
         ]
       }
     ],
-    "swing jazz": [
+    "shockstar disco": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.75,
+          "atk": 0.7,
           "atk%": 0,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
-          "crit dmg%": 0.5,
+          "crit dmg%": 0.48999999999999994,
           "anomaly proficiency": 0
         },
         "1": {
@@ -311,13 +209,115 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.75,
+          "atk": 0.7,
           "atk%": 0,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
-          "crit dmg%": 0.5,
+          "crit dmg%": 0.48999999999999994,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact",
+            "atk%"
+          ]
+        },
+        "char": [
+          "ju-fufu"
+        ]
+      }
+    ],
+    "swing jazz": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.7,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.3429999999999999,
+          "crit rate%": 1,
+          "crit dmg%": 0.48999999999999994,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact",
+            "atk%"
+          ]
+        },
+        "char": [
+          "ju-fufu"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.7,
+          "atk%": 0,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.3429999999999999,
+          "crit rate%": 1,
+          "crit dmg%": 0.48999999999999994,
           "anomaly proficiency": 0
         },
         "1": {

@@ -5,116 +5,14 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.7,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.25
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ice dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "miyabi"
-        ]
-      }
-    ],
-    "puffer electro": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0.25
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "atk%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ice dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "miyabi"
-        ]
-      }
-    ],
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0.25
+          "anomaly proficiency": 0.7
         },
         "1": {
           "main_stats": [
@@ -158,14 +56,14 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.7,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.25
+          "anomaly proficiency": 0.7
         },
         "1": {
           "main_stats": [
@@ -209,14 +107,116 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.7,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.25
+          "anomaly proficiency": 0.7
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ice dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "miyabi"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.7,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.7,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.7
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ice dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "miyabi"
+        ]
+      }
+    ],
+    "puffer electro": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.7,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.7,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.7
         },
         "1": {
           "main_stats": [
@@ -260,14 +260,14 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.7,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.25
+          "anomaly proficiency": 0.7
         },
         "1": {
           "main_stats": [

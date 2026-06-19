@@ -5,63 +5,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.7,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "ice dmg%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen",
-            "atk%"
-          ]
-        },
-        "char": [
-          "soukaku"
-        ]
-      }
-    ],
-    "phaethon's melody": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -109,115 +57,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.7,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "ice dmg%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen",
-            "atk%"
-          ]
-        },
-        "char": [
-          "soukaku"
-        ]
-      }
-    ],
-    "moonlight lullaby": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "atk%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "atk%",
-            "ice dmg%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen",
-            "atk%"
-          ]
-        },
-        "char": [
-          "soukaku"
-        ]
-      }
-    ],
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -265,11 +109,167 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.7,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.7,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "ice dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "atk%"
+          ]
+        },
+        "char": [
+          "soukaku"
+        ]
+      }
+    ],
+    "moonlight lullaby": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.7,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.7,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "ice dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "atk%"
+          ]
+        },
+        "char": [
+          "soukaku"
+        ]
+      }
+    ],
+    "phaethon's melody": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.7,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.7,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "atk%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "atk%",
+            "ice dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen",
+            "atk%"
+          ]
+        },
+        "char": [
+          "soukaku"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.7,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0

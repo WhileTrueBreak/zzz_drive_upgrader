@@ -43,7 +43,7 @@ def start_keyboard_listener():
     return listener
 
 sub_stat_increases = {
-    "hp": 118,
+    "hp": 112,
     "hp%": 3.0,
     "atk": 19,
     "atk%": 3.0,
@@ -166,14 +166,14 @@ def is_disk_main_stat_good(disk, disk_build):
         return False
     return True
 
-MAIN_STAT_VALUE = 4
+MAIN_STAT_VALUE = 3
 DISK_THRESHOLDS = {
-    '1': {'top_percentile': 0.15, 'sub_stat_threshold': 10.5},
-    '2': {'top_percentile': 0.15, 'sub_stat_threshold': 10.5},
-    '3': {'top_percentile': 0.15, 'sub_stat_threshold': 10.5},
-    '4': {'top_percentile': 0.15, 'sub_stat_threshold': 10.5},
-    '5': {'top_percentile': 0.15, 'sub_stat_threshold': 10.5},
-    '6': {'top_percentile': 0.15, 'sub_stat_threshold': 10.5},
+    '1': {'top_percentile': 0.15, 'sub_stat_threshold': 9.5},
+    '2': {'top_percentile': 0.15, 'sub_stat_threshold': 9.5},
+    '3': {'top_percentile': 0.15, 'sub_stat_threshold': 9.5},
+    '4': {'top_percentile': 0.15, 'sub_stat_threshold': 9.5},
+    '5': {'top_percentile': 0.15, 'sub_stat_threshold': 9.5},
+    '6': {'top_percentile': 0.15, 'sub_stat_threshold': 9.5},
 }
 
 class UpgradeStutus(Enum):
@@ -184,6 +184,8 @@ class UpgradeStutus(Enum):
 
 def adjust_sub_stat_for_main_stat(disk_build, disk):
     if disk['main_stat']['name'] not in disk_build['substat_values'].keys():
+        return disk_build
+    if disk_build['substat_values'][disk['main_stat']['name']] == 0:
         return disk_build
 
     new_disk_build = disk_build.copy()

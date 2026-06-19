@@ -1,117 +1,15 @@
 {
   "disks": {
-    "proto punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "physical dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "impact"
-          ]
-        },
-        "char": [
-          "caesar"
-        ]
-      },
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "anomaly proficiency"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "physical dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "impact"
-          ]
-        },
-        "char": [
-          "caesar"
-        ]
-      }
-    ],
     "astral voice": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.48999999999999994,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -157,11 +55,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.48999999999999994,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -204,16 +102,16 @@
         ]
       }
     ],
-    "shockstar disco": [
+    "proto punk": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.48999999999999994,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -259,11 +157,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.48999999999999994,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -311,11 +209,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.48999999999999994,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -361,11 +259,113 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.48999999999999994,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "physical dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact"
+          ]
+        },
+        "char": [
+          "caesar"
+        ]
+      }
+    ],
+    "shockstar disco": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.48999999999999994,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "anomaly proficiency"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "physical dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "impact"
+          ]
+        },
+        "char": [
+          "caesar"
+        ]
+      },
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.48999999999999994,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -413,11 +413,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.48999999999999994,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -463,11 +463,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.625,
+          "atk": 0.48999999999999994,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.48999999999999994,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0

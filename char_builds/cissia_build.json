@@ -5,113 +5,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.48999999999999994,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.625,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "electric dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen"
-          ]
-        },
-        "char": [
-          "cissia"
-        ]
-      }
-    ],
-    "moonlight lullaby": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.625,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "electric dmg%",
-            "atk%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "energy regen"
-          ]
-        },
-        "char": [
-          "cissia"
-        ]
-      }
-    ],
-    "thunder metal": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 1,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.625,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -158,11 +56,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.48999999999999994,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.625,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -204,16 +102,16 @@
         ]
       }
     ],
-    "hormone punk": [
+    "moonlight lullaby": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.48999999999999994,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.625,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -260,11 +158,11 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.48999999999999994,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.625,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -311,11 +209,62 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.48999999999999994,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.625,
+          "pen": 0.7,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "electric dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "cissia"
+        ]
+      }
+    ],
+    "thunder metal": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.48999999999999994,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0
@@ -362,11 +311,62 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
+          "atk": 0.48999999999999994,
           "atk%": 1,
           "def": 0,
           "def%": 0,
-          "pen": 0.625,
+          "pen": 0.7,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "electric dmg%",
+            "atk%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "energy regen"
+          ]
+        },
+        "char": [
+          "cissia"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.48999999999999994,
+          "atk%": 1,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.7,
           "crit rate%": 1,
           "crit dmg%": 1,
           "anomaly proficiency": 0

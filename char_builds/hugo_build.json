@@ -5,117 +5,13 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.4375,
-          "atk%": 0.625,
+          "atk": 0.3429999999999999,
+          "atk%": 0.48999999999999994,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.24009999999999992,
           "crit rate%": 1,
-          "crit dmg%": 0.8125,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit dmg%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ice dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "hugo"
-        ]
-      }
-    ],
-    "puffer electro": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.4375,
-          "atk%": 0.625,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 0.8125,
-          "anomaly proficiency": 0
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit dmg%",
-            "crit rate%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "ice dmg%",
-            "atk%",
-            "pen ratio%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "hugo"
-        ]
-      }
-    ],
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.4375,
-          "atk%": 0.625,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.25,
-          "crit rate%": 1,
-          "crit dmg%": 0.8125,
+          "crit dmg%": 0.7,
           "anomaly proficiency": 0
         },
         "1": {
@@ -161,13 +57,13 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.4375,
-          "atk%": 0.625,
+          "atk": 0.3429999999999999,
+          "atk%": 0.48999999999999994,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.24009999999999992,
           "crit rate%": 1,
-          "crit dmg%": 0.8125,
+          "crit dmg%": 0.7,
           "anomaly proficiency": 0
         },
         "1": {
@@ -213,13 +109,117 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.4375,
-          "atk%": 0.625,
+          "atk": 0.3429999999999999,
+          "atk%": 0.48999999999999994,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.24009999999999992,
           "crit rate%": 1,
-          "crit dmg%": 0.8125,
+          "crit dmg%": 0.7,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit dmg%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ice dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "hugo"
+        ]
+      }
+    ],
+    "puffer electro": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.3429999999999999,
+          "atk%": 0.48999999999999994,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.24009999999999992,
+          "crit rate%": 1,
+          "crit dmg%": 0.7,
+          "anomaly proficiency": 0
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit dmg%",
+            "crit rate%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "ice dmg%",
+            "atk%",
+            "pen ratio%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "hugo"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.3429999999999999,
+          "atk%": 0.48999999999999994,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.24009999999999992,
+          "crit rate%": 1,
+          "crit dmg%": 0.7,
           "anomaly proficiency": 0
         },
         "1": {
@@ -265,13 +265,13 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.4375,
-          "atk%": 0.625,
+          "atk": 0.3429999999999999,
+          "atk%": 0.48999999999999994,
           "def": 0,
           "def%": 0,
-          "pen": 0.25,
+          "pen": 0.24009999999999992,
           "crit rate%": 1,
-          "crit dmg%": 0.8125,
+          "crit dmg%": 0.7,
           "anomaly proficiency": 0
         },
         "1": {

@@ -1,1253 +1,14 @@
 {
-  "phaethon's melody": [
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "physical dmg%",
-          "atk%",
-          "ether dmg%",
-          "fire dmg%",
-          "electric dmg%",
-          "ice dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "alice",
-        "aria",
-        "burnice",
-        "grace-howard",
-        "nangong-yu",
-        "promeia"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "physical dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "jane-doe",
-        "piper"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "ice dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%"
-        ]
-      },
-      "char": [
-        "lucy",
-        "soukaku"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "ether dmg%",
-          "atk%",
-          "pen ratio%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%",
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "nicole-demara",
-        "vivian"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.75,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 0.5
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "pen ratio%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery",
-          "atk%"
-        ]
-      },
-      "char": [
-        "ukinami-yuzuha"
-      ]
-    }
-  ],
-  "puffer electro": [
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "physical dmg%",
-          "atk%",
-          "fire dmg%",
-          "electric dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "alice",
-        "burnice",
-        "grace-howard"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "electric dmg%",
-          "atk%",
-          "fire dmg%",
-          "pen ratio%",
-          "pen ratio",
-          "atk %",
-          "physical dmg %",
-          "physical dmg%",
-          "ice dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "anby-demara-soldier-0",
-        "anton",
-        "ben",
-        "billy-kid",
-        "corin",
-        "ellen",
-        "nekomata"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.5,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit dmg%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "fire dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "evelyn"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.4375,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 0.8125,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit dmg%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "ice dmg%",
-          "atk%",
-          "pen ratio%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "hugo"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "physical dmg%",
-          "atk%",
-          "electric dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery",
-          "energy regen",
-          "atk%"
-        ]
-      },
-      "char": [
-        "jane-doe",
-        "piper",
-        "rina",
-        "yanagi"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%"
-        ]
-      },
-      "char": [
-        "lucy"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0.25
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "ice dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "miyabi"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "ether dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "pyrois"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit dmg%",
-          "crit rate%",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "atk%",
-          "electric dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "seed",
-        "ye-shunguang"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.4375,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0.625
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "atk%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "atk%",
-          "fire dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "soldier-11"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "ether dmg%",
-          "pen ratio%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "vivian"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.625,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit dmg%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "ether dmg%",
-          "pen ratio%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "zhu-yuan"
-      ]
-    }
-  ],
-  "fanged metal": [
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "physical dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "alice"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0.5,
-        "hp%": 0.75,
-        "atk": 0.25,
-        "atk%": 0,
-        "def": 0,
-        "def%": 0,
-        "pen": 0,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%",
-          "hp%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "physical dmg%",
-          "hp%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "hp%"
-        ]
-      },
-      "char": [
-        "billy-starlight"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "atk%",
-          "physical dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "corin",
-        "nekomata"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "physical dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "jane-doe",
-        "piper"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%"
-        ]
-      },
-      "char": [
-        "lucy"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 1,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0.625,
-        "crit dmg%": 0.625,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "physical dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "pan-yinhu"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "ye-shunguang"
-      ]
-    }
-  ],
   "astral voice": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -1280,9 +41,9 @@
           "pen ratio%",
           "physical dmg%",
           "atk%",
+          "ether dmg%",
           "fire dmg%",
           "electric dmg%",
-          "ether dmg%",
           "ice dmg%"
         ]
       },
@@ -1305,11 +66,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -1372,14 +133,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.5
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -1423,15 +184,15 @@
     },
     {
       "substat_values": {
-        "hp": 0.5,
-        "hp%": 0.75,
-        "atk": 0.25,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.3429999999999999,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -1475,11 +236,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -1528,13 +289,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.5,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -1583,13 +344,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.625,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -1633,13 +394,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.4375,
-        "atk%": 0.625,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.24009999999999992,
         "crit rate%": 1,
-        "crit dmg%": 0.8125,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -1683,11 +444,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -1739,13 +500,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 0,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.5,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -1788,11 +549,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -1837,10 +598,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
-        "hp%": 0.8125,
-        "atk": 0.25,
-        "atk%": 0.4375,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.24009999999999992,
+        "atk%": 0.3429999999999999,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -1888,14 +649,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.25
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -1937,11 +698,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -1990,11 +751,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -2049,9 +810,9 @@
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0.625,
-        "crit dmg%": 0.625,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0.7,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -2095,13 +856,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -2145,14 +906,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.5,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.75
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -2195,14 +956,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.625
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -2244,15 +1005,15 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
+        "hp": 0.7,
         "hp%": 1,
         "atk": 0,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
-        "crit rate%": 0.25,
-        "crit dmg%": 0.25,
+        "crit rate%": 0.48999999999999994,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -2290,16 +1051,174 @@
       ]
     }
   ],
-  "chaos jazz": [
+  "fanged metal": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency",
+          "atk%",
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "physical dmg%",
+          "atk%",
+          "ether dmg%",
+          "fire dmg%",
+          "electric dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery",
+          "impact"
+        ]
+      },
+      "char": [
+        "alice"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.3429999999999999,
+        "atk%": 0,
+        "def": 0,
+        "def%": 0,
+        "pen": 0,
+        "crit rate%": 1,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%",
+          "hp%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "physical dmg%",
+          "hp%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "hp%"
+        ]
+      },
+      "char": [
+        "billy-starlight"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "atk%",
+          "physical dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "corin",
+        "nekomata"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -2330,35 +1249,181 @@
           "pen ratio%",
           "physical dmg%",
           "atk%",
-          "ether dmg%",
-          "fire dmg%",
-          "electric dmg%",
-          "ice dmg%"
+          "electric dmg%"
         ]
       },
       "6": {
         "main_stats": [
-          "anomaly mastery"
+          "anomaly mastery",
+          "energy regen",
+          "atk%"
         ]
       },
       "char": [
-        "alice",
-        "aria",
-        "burnice",
-        "grace-howard",
-        "nangong-yu",
-        "promeia"
+        "jane-doe",
+        "piper"
       ]
     },
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.7,
+        "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%"
+        ]
+      },
+      "char": [
+        "lucy"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 1,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0.7,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%",
+          "atk%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "physical dmg%",
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "pan-yinhu"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "ye-shunguang"
+      ]
+    }
+  ],
+  "chaos jazz": [
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -2380,7 +1445,70 @@
       },
       "4": {
         "main_stats": [
-          "anomaly proficiency"
+          "anomaly proficiency",
+          "atk%",
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "physical dmg%",
+          "atk%",
+          "ether dmg%",
+          "fire dmg%",
+          "electric dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery",
+          "impact"
+        ]
+      },
+      "char": [
+        "alice",
+        "aria",
+        "burnice",
+        "grace-howard",
+        "nangong-yu",
+        "promeia"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency",
+          "atk%"
         ]
       },
       "5": {
@@ -2394,6 +1522,7 @@
       "6": {
         "main_stats": [
           "anomaly mastery",
+          "energy regen",
           "atk%"
         ]
       },
@@ -2407,11 +1536,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -2458,11 +1587,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -2511,14 +1640,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.5,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.75
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -2561,14 +1690,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.5
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -2613,11 +1742,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -2640,7 +1769,9 @@
       "4": {
         "main_stats": [
           "anomaly proficiency",
-          "atk%"
+          "atk%",
+          "crit rate%",
+          "crit dmg%"
         ]
       },
       "5": {
@@ -2656,7 +1787,8 @@
       },
       "6": {
         "main_stats": [
-          "anomaly mastery"
+          "anomaly mastery",
+          "impact"
         ]
       },
       "char": [
@@ -2672,11 +1804,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -2722,11 +1854,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -2748,7 +1880,8 @@
       },
       "4": {
         "main_stats": [
-          "anomaly proficiency"
+          "anomaly proficiency",
+          "atk%"
         ]
       },
       "5": {
@@ -2762,6 +1895,7 @@
       "6": {
         "main_stats": [
           "anomaly mastery",
+          "energy regen",
           "atk%"
         ]
       },
@@ -2775,11 +1909,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -2828,14 +1962,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.5,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.75
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -2878,11 +2012,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -2928,14 +2062,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.5
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -2975,16 +2109,78 @@
       ]
     }
   ],
-  "hormone punk": [
+  "phaethon's melody": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency",
+          "atk%",
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "physical dmg%",
+          "atk%",
+          "ether dmg%",
+          "fire dmg%",
+          "electric dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery",
+          "impact"
+        ]
+      },
+      "char": [
+        "alice",
+        "aria",
+        "burnice",
+        "grace-howard",
+        "nangong-yu",
+        "promeia"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -3015,34 +2211,245 @@
           "pen ratio%",
           "physical dmg%",
           "atk%",
-          "fire dmg%",
-          "electric dmg%",
-          "ether dmg%",
-          "ice dmg%"
+          "electric dmg%"
         ]
       },
       "6": {
         "main_stats": [
-          "anomaly mastery"
+          "anomaly mastery",
+          "energy regen",
+          "atk%"
         ]
       },
       "char": [
-        "alice",
-        "burnice",
-        "grace-howard",
-        "nangong-yu",
-        "promeia"
+        "jane-doe",
+        "piper"
       ]
     },
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.7,
+        "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%"
+        ]
+      },
+      "char": [
+        "lucy",
+        "soukaku"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "anomaly proficiency"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "ether dmg%",
+          "atk%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%",
+          "anomaly mastery"
+        ]
+      },
+      "char": [
+        "nicole-demara",
+        "vivian"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 0.48999999999999994
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "anomaly proficiency"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery",
+          "atk%"
+        ]
+      },
+      "char": [
+        "ukinami-yuzuha"
+      ]
+    }
+  ],
+  "puffer electro": [
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency",
+          "atk%",
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "physical dmg%",
+          "atk%",
+          "ether dmg%",
+          "fire dmg%",
+          "electric dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery",
+          "impact"
+        ]
+      },
+      "char": [
+        "alice",
+        "burnice",
+        "grace-howard"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -3100,169 +2507,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
-        "atk%": 1,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 0.5
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "pen ratio%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%",
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "astra-yao",
-        "sunna",
-        "ukinami-yuzuha"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0.5,
-        "hp%": 0.75,
-        "atk": 0.25,
-        "atk%": 0,
-        "def": 0,
-        "def%": 0,
-        "pen": 0,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%",
-          "hp%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "physical dmg%",
-          "hp%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "hp%"
-        ]
-      },
-      "char": [
-        "billy-starlight"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.625,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "electric dmg%",
-          "atk%",
-          "ether dmg%",
-          "pen ratio%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%"
-        ]
-      },
-      "char": [
-        "cissia",
-        "zhu-yuan"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.5,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -3289,12 +2540,15 @@
       "5": {
         "main_stats": [
           "pen ratio%",
-          "fire dmg%"
+          "fire dmg%",
+          "atk%",
+          "electric dmg%"
         ]
       },
       "6": {
         "main_stats": [
-          "atk%"
+          "atk%",
+          "impact"
         ]
       },
       "char": [
@@ -3305,63 +2559,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.24009999999999992,
         "crit rate%": 1,
-        "crit dmg%": 0.625,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "crit dmg%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "electric dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "harumasa"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.4375,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 0.8125,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -3405,11 +2609,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -3461,13 +2665,853 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%"
+        ]
+      },
+      "char": [
+        "lucy"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0.7
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "atk%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "ice dmg%",
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "miyabi"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "ether dmg%",
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "pyrois"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit dmg%",
+          "crit rate%",
+          "atk%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "atk%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "seed",
+        "ye-shunguang"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0.48999999999999994
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "atk%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "atk%",
+          "fire dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "soldier-11"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "ether dmg%",
+          "pen ratio%",
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery"
+        ]
+      },
+      "char": [
+        "vivian"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit dmg%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "ether dmg%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "zhu-yuan"
+      ]
+    }
+  ],
+  "hormone punk": [
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency",
+          "atk%",
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "physical dmg%",
+          "atk%",
+          "ether dmg%",
+          "fire dmg%",
+          "electric dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery",
+          "impact"
+        ]
+      },
+      "char": [
+        "alice",
+        "burnice",
+        "grace-howard",
+        "nangong-yu",
+        "promeia"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "electric dmg%",
+          "atk%",
+          "fire dmg%",
+          "pen ratio%",
+          "pen ratio",
+          "atk %",
+          "physical dmg %",
+          "physical dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "anby-demara-soldier-0",
+        "anton",
+        "ben",
+        "billy-kid",
+        "corin",
+        "ellen",
+        "nekomata"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 0.48999999999999994
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "anomaly proficiency"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%",
+          "anomaly mastery"
+        ]
+      },
+      "char": [
+        "astra-yao",
+        "sunna",
+        "ukinami-yuzuha"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.3429999999999999,
         "atk%": 0,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0,
         "crit rate%": 1,
-        "crit dmg%": 0.5,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%",
+          "hp%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "physical dmg%",
+          "hp%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "hp%"
+        ]
+      },
+      "char": [
+        "billy-starlight"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "electric dmg%",
+          "atk%",
+          "ether dmg%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%"
+        ]
+      },
+      "char": [
+        "cissia",
+        "zhu-yuan"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 1,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit dmg%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "fire dmg%",
+          "atk%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%",
+          "impact"
+        ]
+      },
+      "char": [
+        "evelyn"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 1,
+        "crit dmg%": 0.48999999999999994,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "crit dmg%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "harumasa"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.24009999999999992,
+        "crit rate%": 1,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit dmg%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "ice dmg%",
+          "atk%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "hugo"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency",
+          "atk%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "physical dmg%",
+          "atk%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery",
+          "energy regen",
+          "atk%"
+        ]
+      },
+      "char": [
+        "jane-doe",
+        "piper",
+        "rina",
+        "yanagi"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
+        "atk%": 0,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 1,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -3510,11 +3554,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -3559,10 +3603,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
-        "hp%": 0.8125,
-        "atk": 0.25,
-        "atk%": 0.4375,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.24009999999999992,
+        "atk%": 0.3429999999999999,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -3610,14 +3654,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.25
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -3659,11 +3703,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -3716,9 +3760,9 @@
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0.625,
-        "crit dmg%": 0.625,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0.7,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -3762,13 +3806,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -3812,11 +3856,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -3864,14 +3908,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.5,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.75
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -3914,14 +3958,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.625
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -3967,11 +4011,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -4002,14 +4046,19 @@
         "main_stats": [
           "electric dmg%",
           "atk%",
-          "physical dmg%",
+          "fire dmg%",
           "pen ratio%",
+          "pen ratio",
+          "atk %",
+          "physical dmg %",
+          "physical dmg%",
           "ice dmg%"
         ]
       },
       "6": {
         "main_stats": [
-          "impact"
+          "impact",
+          "atk%"
         ]
       },
       "char": [
@@ -4023,13 +4072,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 0,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.5,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -4072,13 +4121,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.5,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -4129,9 +4178,9 @@
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0.625,
-        "crit dmg%": 0.625,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0.7,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -4175,11 +4224,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -4225,14 +4274,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.5,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.75
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -4277,11 +4326,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -4312,14 +4361,19 @@
         "main_stats": [
           "electric dmg%",
           "atk%",
-          "physical dmg%",
+          "fire dmg%",
           "pen ratio%",
+          "pen ratio",
+          "atk %",
+          "physical dmg %",
+          "physical dmg%",
           "ice dmg%"
         ]
       },
       "6": {
         "main_stats": [
-          "impact"
+          "impact",
+          "atk%"
         ]
       },
       "char": [
@@ -4333,13 +4387,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 0,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.5,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -4382,13 +4436,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.5,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -4435,11 +4489,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -4485,14 +4539,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.5,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.75
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -4532,16 +4586,16 @@
       ]
     }
   ],
-  "swing jazz": [
+  "king of the summit": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -4564,23 +4618,32 @@
       "4": {
         "main_stats": [
           "crit rate%",
-          "crit dmg%"
+          "crit dmg%",
+          "anomaly proficiency"
         ]
       },
       "5": {
         "main_stats": [
           "electric dmg%",
           "atk%",
+          "fire dmg%",
+          "pen ratio%",
+          "pen ratio",
+          "atk %",
+          "physical dmg %",
+          "physical dmg%",
           "ice dmg%"
         ]
       },
       "6": {
         "main_stats": [
-          "impact"
+          "impact",
+          "atk%"
         ]
       },
       "char": [
         "anby-demara",
+        "caesar",
         "lycaon",
         "trigger"
       ]
@@ -4589,111 +4652,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
-        "atk%": 1,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 0.5
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%"
-        ]
-      },
-      "char": [
-        "astra-yao",
-        "sunna"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.625,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "electric dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen"
-        ]
-      },
-      "char": [
-        "cissia"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -4736,13 +4701,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 0,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.5,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -4785,13 +4750,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.5,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -4838,11 +4803,378 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency",
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "physical dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "impact"
+        ]
+      },
+      "char": [
+        "pulchra"
+      ]
+    }
+  ],
+  "swing jazz": [
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%",
+          "anomaly proficiency"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "electric dmg%",
+          "atk%",
+          "fire dmg%",
+          "pen ratio%",
+          "pen ratio",
+          "atk %",
+          "physical dmg %",
+          "physical dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "impact",
+          "atk%"
+        ]
+      },
+      "char": [
+        "anby-demara",
+        "lycaon",
+        "trigger"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 0.48999999999999994
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "anomaly proficiency"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%",
+          "anomaly mastery"
+        ]
+      },
+      "char": [
+        "astra-yao",
+        "sunna"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "electric dmg%",
+          "atk%",
+          "ether dmg%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%"
+        ]
+      },
+      "char": [
+        "cissia"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "physical dmg%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen"
+        ]
+      },
+      "char": [
+        "dialyn"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
+        "atk%": 0,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 1,
+        "crit dmg%": 0.48999999999999994,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "atk%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "impact",
+          "atk%"
+        ]
+      },
+      "char": [
+        "ju-fufu"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 1,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "fire dmg%",
+          "atk%",
+          "pen ratio%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "impact"
+        ]
+      },
+      "char": [
+        "koleda",
+        "lighter",
+        "qingyi"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.7,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -4870,7 +5202,8 @@
       },
       "5": {
         "main_stats": [
-          "atk%"
+          "atk%",
+          "ice dmg%"
         ]
       },
       "6": {
@@ -4887,11 +5220,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -4920,13 +5253,15 @@
       "5": {
         "main_stats": [
           "ether dmg%",
-          "atk%"
+          "atk%",
+          "pen ratio%"
         ]
       },
       "6": {
         "main_stats": [
           "energy regen",
-          "atk%"
+          "atk%",
+          "anomaly mastery"
         ]
       },
       "char": [
@@ -4937,11 +5272,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -4964,13 +5299,16 @@
       "4": {
         "main_stats": [
           "crit dmg%",
-          "crit rate%"
+          "crit rate%",
+          "atk%"
         ]
       },
       "5": {
         "main_stats": [
           "fire dmg%",
-          "atk%"
+          "atk%",
+          "pen ratio%",
+          "electric dmg%"
         ]
       },
       "6": {
@@ -4991,9 +5329,9 @@
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0.625,
-        "crit dmg%": 0.625,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0.7,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -5037,11 +5375,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -5087,11 +5425,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -5119,13 +5457,16 @@
       },
       "5": {
         "main_stats": [
-          "pen ratio%"
+          "pen ratio%",
+          "electric dmg%",
+          "atk%"
         ]
       },
       "6": {
         "main_stats": [
           "energy regen",
-          "atk%"
+          "atk%",
+          "anomaly mastery"
         ]
       },
       "char": [
@@ -5136,14 +5477,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.5,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.75
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -5186,11 +5527,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -5233,15 +5574,15 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
+        "hp": 0.7,
         "hp%": 1,
         "atk": 0,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
-        "crit rate%": 0.25,
-        "crit dmg%": 0.25,
+        "crit rate%": 0.48999999999999994,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -5279,737 +5620,16 @@
       ]
     }
   ],
-  "king of the summit": [
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%",
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "electric dmg%",
-          "atk%",
-          "physical dmg%",
-          "pen ratio%",
-          "ice dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "impact"
-        ]
-      },
-      "char": [
-        "anby-demara",
-        "caesar",
-        "lycaon",
-        "trigger"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "physical dmg%",
-          "pen ratio%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen"
-        ]
-      },
-      "char": [
-        "dialyn"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.75,
-        "atk%": 0,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 0.5,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "impact",
-          "atk%"
-        ]
-      },
-      "char": [
-        "ju-fufu"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.5,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "fire dmg%",
-          "atk%",
-          "pen ratio%",
-          "electric dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "impact"
-        ]
-      },
-      "char": [
-        "koleda",
-        "lighter",
-        "qingyi"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency",
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "physical dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "impact"
-        ]
-      },
-      "char": [
-        "pulchra"
-      ]
-    }
-  ],
-  "shadow harmony": [
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "electric dmg%",
-          "atk%",
-          "pen ratio",
-          "atk %",
-          "physical dmg %",
-          "pen ratio%",
-          "ice dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "anby-demara-soldier-0",
-        "billy-kid",
-        "ellen"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.4375,
-        "crit rate%": 1,
-        "crit dmg%": 0.625,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "crit dmg%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "electric dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "harumasa"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit dmg%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "fire dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%"
-        ]
-      },
-      "char": [
-        "orphie-and-magus"
-      ]
-    }
-  ],
-  "thunder metal": [
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "electric dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "anby-demara-soldier-0",
-        "anton"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 1,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.625,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "electric dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen"
-        ]
-      },
-      "char": [
-        "cissia"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency",
-          "atk%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "electric dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "grace-howard"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.4375,
-        "crit rate%": 1,
-        "crit dmg%": 0.625,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "crit dmg%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "atk%",
-          "electric dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "harumasa"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.25,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "atk%",
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "electric dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen",
-          "atk%",
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "rina",
-        "yanagi"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 1,
-        "crit dmg%": 1,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit dmg%",
-          "crit rate%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "atk%",
-          "electric dmg%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "seed"
-      ]
-    }
-  ],
   "woodpecker electro": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -6065,10 +5685,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.25,
-        "hp%": 0.75,
+        "hp": 0.3429999999999999,
+        "hp%": 0.7,
         "atk": 0,
-        "atk%": 0.5,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -6116,15 +5736,15 @@
     },
     {
       "substat_values": {
-        "hp": 0.5,
-        "hp%": 0.75,
-        "atk": 0.25,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.3429999999999999,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -6168,11 +5788,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -6221,13 +5841,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -6270,13 +5890,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.625,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -6320,13 +5940,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.4375,
-        "atk%": 0.625,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.24009999999999992,
         "crit rate%": 1,
-        "crit dmg%": 0.8125,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -6370,13 +5990,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 0,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.5,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -6417,10 +6037,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
-        "hp%": 0.8125,
-        "atk": 0.25,
-        "atk%": 0.4375,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.24009999999999992,
+        "atk%": 0.3429999999999999,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -6468,14 +6088,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.25
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -6517,11 +6137,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -6569,14 +6189,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.625
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -6618,10 +6238,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.25,
-        "hp%": 0.625,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
         "atk": 0,
-        "atk%": 0.25,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -6666,16 +6286,494 @@
       ]
     }
   ],
+  "shadow harmony": [
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "electric dmg%",
+          "atk%",
+          "fire dmg%",
+          "pen ratio%",
+          "pen ratio",
+          "atk %",
+          "physical dmg %",
+          "physical dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "anby-demara-soldier-0",
+        "billy-kid",
+        "ellen"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 1,
+        "crit dmg%": 0.48999999999999994,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "crit dmg%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "harumasa"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit dmg%",
+          "crit rate%",
+          "atk%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "fire dmg%",
+          "atk%",
+          "pen ratio%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%"
+        ]
+      },
+      "char": [
+        "orphie-and-magus"
+      ]
+    }
+  ],
+  "thunder metal": [
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "electric dmg%",
+          "atk%",
+          "fire dmg%",
+          "pen ratio%",
+          "pen ratio",
+          "atk %",
+          "physical dmg %",
+          "physical dmg%",
+          "ice dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "anby-demara-soldier-0",
+        "anton"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 1,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.7,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "electric dmg%",
+          "atk%",
+          "ether dmg%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%"
+        ]
+      },
+      "char": [
+        "cissia"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency",
+          "atk%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "electric dmg%",
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery"
+        ]
+      },
+      "char": [
+        "grace-howard"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.3429999999999999,
+        "crit rate%": 1,
+        "crit dmg%": 0.48999999999999994,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "crit dmg%",
+          "crit rate%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "atk%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "harumasa"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "atk%",
+          "anomaly proficiency"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "electric dmg%",
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen",
+          "atk%",
+          "anomaly mastery"
+        ]
+      },
+      "char": [
+        "rina",
+        "yanagi"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 1,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit dmg%",
+          "crit rate%",
+          "atk%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "atk%",
+          "electric dmg%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "seed"
+      ]
+    }
+  ],
   "branch & blade song": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -6730,10 +6828,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.25,
-        "hp%": 0.75,
+        "hp": 0.3429999999999999,
+        "hp%": 0.7,
         "atk": 0,
-        "atk%": 0.5,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -6781,15 +6879,15 @@
     },
     {
       "substat_values": {
-        "hp": 0.5,
-        "hp%": 0.75,
-        "atk": 0.25,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.3429999999999999,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -6833,11 +6931,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -6886,13 +6984,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
-        "crit dmg%": 0.625,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -6936,13 +7034,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.4375,
-        "atk%": 0.625,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.24009999999999992,
         "crit rate%": 1,
-        "crit dmg%": 0.8125,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -6984,10 +7082,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
-        "hp%": 0.8125,
-        "atk": 0.25,
-        "atk%": 0.4375,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.24009999999999992,
+        "atk%": 0.3429999999999999,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -7035,14 +7133,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.25
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -7084,13 +7182,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -7134,11 +7232,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -7186,14 +7284,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.625
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -7235,10 +7333,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.25,
-        "hp%": 0.625,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
         "atk": 0,
-        "atk%": 0.25,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -7283,16 +7381,16 @@
       ]
     }
   ],
-  "chaotic metal": [
+  "shining aria": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -7338,13 +7436,115 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "pen ratio%",
+          "ether dmg%",
+          "atk%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "atk%"
+        ]
+      },
+      "char": [
+        "pyrois"
+      ]
+    }
+  ],
+  "chaotic metal": [
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 0,
+        "crit dmg%": 0,
+        "anomaly proficiency": 1
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "anomaly proficiency"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "ether dmg%",
+          "atk%",
+          "pen ratio%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "anomaly mastery"
+        ]
+      },
+      "char": [
+        "aria",
+        "nangong-yu"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0,
+        "hp%": 0,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
+        "def": 0,
+        "def%": 0,
+        "pen": 0.48999999999999994,
+        "crit rate%": 1,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -7388,11 +7588,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -7437,11 +7637,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -7484,121 +7684,19 @@
       ]
     }
   ],
-  "shining aria": [
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 0,
-        "crit dmg%": 0,
-        "anomaly proficiency": 1
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "anomaly proficiency"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "ether dmg%",
-          "atk%",
-          "pen ratio%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "anomaly mastery"
-        ]
-      },
-      "char": [
-        "aria",
-        "nangong-yu"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0,
-        "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
-        "def": 0,
-        "def%": 0,
-        "pen": 0.5,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "pen ratio%",
-          "ether dmg%",
-          "atk%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "atk%"
-        ]
-      },
-      "char": [
-        "pyrois"
-      ]
-    }
-  ],
   "moonlight lullaby": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.5
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -7644,14 +7742,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.75,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.3429999999999999,
         "crit rate%": 0,
         "crit dmg%": 0,
-        "anomaly proficiency": 0.5
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -7692,11 +7790,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -7725,12 +7823,15 @@
       "5": {
         "main_stats": [
           "electric dmg%",
-          "atk%"
+          "atk%",
+          "ether dmg%",
+          "pen ratio%"
         ]
       },
       "6": {
         "main_stats": [
-          "energy regen"
+          "energy regen",
+          "atk%"
         ]
       },
       "char": [
@@ -7739,15 +7840,15 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
+        "hp": 0.7,
         "hp%": 1,
         "atk": 0,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
-        "crit rate%": 0.25,
-        "crit dmg%": 0.25,
+        "crit rate%": 0.48999999999999994,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -7790,11 +7891,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -7841,11 +7942,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -7890,11 +7991,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -7923,13 +8024,15 @@
       "5": {
         "main_stats": [
           "ether dmg%",
-          "atk%"
+          "atk%",
+          "pen ratio%"
         ]
       },
       "6": {
         "main_stats": [
           "energy regen",
-          "atk%"
+          "atk%",
+          "anomaly mastery"
         ]
       },
       "char": [
@@ -7940,11 +8043,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -7967,13 +8070,16 @@
       "4": {
         "main_stats": [
           "crit dmg%",
-          "crit rate%"
+          "crit rate%",
+          "atk%"
         ]
       },
       "5": {
         "main_stats": [
           "fire dmg%",
-          "atk%"
+          "atk%",
+          "pen ratio%",
+          "electric dmg%"
         ]
       },
       "6": {
@@ -7990,11 +8096,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -8022,13 +8128,16 @@
       },
       "5": {
         "main_stats": [
-          "pen ratio%"
+          "pen ratio%",
+          "electric dmg%",
+          "atk%"
         ]
       },
       "6": {
         "main_stats": [
           "energy regen",
-          "atk%"
+          "atk%",
+          "anomaly mastery"
         ]
       },
       "char": [
@@ -8039,11 +8148,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -8088,10 +8197,10 @@
   "yunkui tales": [
     {
       "substat_values": {
-        "hp": 0.25,
-        "hp%": 0.75,
+        "hp": 0.3429999999999999,
+        "hp%": 0.7,
         "atk": 0,
-        "atk%": 0.5,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -8139,15 +8248,15 @@
     },
     {
       "substat_values": {
-        "hp": 0.5,
-        "hp%": 0.75,
-        "atk": 0.25,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.3429999999999999,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -8189,15 +8298,15 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
+        "hp": 0.7,
         "hp%": 1,
         "atk": 0,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
-        "crit rate%": 0.25,
-        "crit dmg%": 0.25,
+        "crit rate%": 0.48999999999999994,
+        "crit dmg%": 0.48999999999999994,
         "anomaly proficiency": 0
       },
       "1": {
@@ -8238,10 +8347,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.625,
-        "hp%": 0.8125,
-        "atk": 0.25,
-        "atk%": 0.4375,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.24009999999999992,
+        "atk%": 0.3429999999999999,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -8287,10 +8396,10 @@
     },
     {
       "substat_values": {
-        "hp": 0.25,
-        "hp%": 0.625,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
         "atk": 0,
-        "atk%": 0.25,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
         "pen": 0,
@@ -8340,11 +8449,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -8389,11 +8498,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -8437,14 +8546,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.625
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -8485,117 +8594,18 @@
       ]
     }
   ],
-  "bunny in wonderland": [
-    {
-      "substat_values": {
-        "hp": 0.5,
-        "hp%": 0.75,
-        "atk": 0.25,
-        "atk%": 0,
-        "def": 0,
-        "def%": 0,
-        "pen": 0,
-        "crit rate%": 1,
-        "crit dmg%": 0.75,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "crit rate%",
-          "crit dmg%",
-          "hp%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "physical dmg%",
-          "hp%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "hp%"
-        ]
-      },
-      "char": [
-        "billy-starlight"
-      ]
-    },
-    {
-      "substat_values": {
-        "hp": 0.625,
-        "hp%": 1,
-        "atk": 0,
-        "atk%": 0,
-        "def": 0,
-        "def%": 0,
-        "pen": 0,
-        "crit rate%": 0.25,
-        "crit dmg%": 0.25,
-        "anomaly proficiency": 0
-      },
-      "1": {
-        "main_stats": [
-          "hp"
-        ]
-      },
-      "2": {
-        "main_stats": [
-          "atk"
-        ]
-      },
-      "3": {
-        "main_stats": [
-          "def"
-        ]
-      },
-      "4": {
-        "main_stats": [
-          "hp%"
-        ]
-      },
-      "5": {
-        "main_stats": [
-          "hp%"
-        ]
-      },
-      "6": {
-        "main_stats": [
-          "energy regen"
-        ]
-      },
-      "char": [
-        "zhao"
-      ]
-    }
-  ],
   "white water ballad": [
     {
       "substat_values": {
-        "hp": 0.5,
-        "hp%": 0.75,
-        "atk": 0.25,
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.3429999999999999,
         "atk%": 0,
         "def": 0,
         "def%": 0,
         "pen": 0,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -8639,11 +8649,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -8685,16 +8695,115 @@
       ]
     }
   ],
+  "bunny in wonderland": [
+    {
+      "substat_values": {
+        "hp": 0.48999999999999994,
+        "hp%": 0.7,
+        "atk": 0.3429999999999999,
+        "atk%": 0,
+        "def": 0,
+        "def%": 0,
+        "pen": 0,
+        "crit rate%": 1,
+        "crit dmg%": 0.7,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "crit rate%",
+          "crit dmg%",
+          "hp%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "physical dmg%",
+          "hp%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "hp%"
+        ]
+      },
+      "char": [
+        "billy-starlight"
+      ]
+    },
+    {
+      "substat_values": {
+        "hp": 0.7,
+        "hp%": 1,
+        "atk": 0,
+        "atk%": 0,
+        "def": 0,
+        "def%": 0,
+        "pen": 0,
+        "crit rate%": 0.48999999999999994,
+        "crit dmg%": 0.48999999999999994,
+        "anomaly proficiency": 0
+      },
+      "1": {
+        "main_stats": [
+          "hp"
+        ]
+      },
+      "2": {
+        "main_stats": [
+          "atk"
+        ]
+      },
+      "3": {
+        "main_stats": [
+          "def"
+        ]
+      },
+      "4": {
+        "main_stats": [
+          "hp%"
+        ]
+      },
+      "5": {
+        "main_stats": [
+          "hp%"
+        ]
+      },
+      "6": {
+        "main_stats": [
+          "energy regen"
+        ]
+      },
+      "char": [
+        "zhao"
+      ]
+    }
+  ],
   "dawn's bloom": [
     {
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -8743,11 +8852,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -8770,7 +8879,8 @@
       "4": {
         "main_stats": [
           "crit dmg%",
-          "crit rate%"
+          "crit rate%",
+          "atk%"
         ]
       },
       "5": {
@@ -8793,14 +8903,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.8125,
+        "atk": 0.24009999999999992,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.4375,
+        "pen": 0.3429999999999999,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.625
+        "anomaly proficiency": 0.48999999999999994
       },
       "1": {
         "main_stats": [
@@ -8846,11 +8956,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.625,
+        "atk": 0.48999999999999994,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
         "crit dmg%": 1,
         "anomaly proficiency": 0
@@ -8894,13 +9004,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.4375,
-        "atk%": 0.625,
+        "atk": 0.3429999999999999,
+        "atk%": 0.48999999999999994,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.24009999999999992,
         "crit rate%": 1,
-        "crit dmg%": 0.8125,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -8944,14 +9054,14 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.7,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.25,
+        "pen": 0.7,
         "crit rate%": 1,
         "crit dmg%": 1,
-        "anomaly proficiency": 0.25
+        "anomaly proficiency": 0.7
       },
       "1": {
         "main_stats": [
@@ -8995,11 +9105,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1
@@ -9046,13 +9156,13 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
-        "atk%": 0.75,
+        "atk": 0.3429999999999999,
+        "atk%": 0.7,
         "def": 0,
         "def%": 0,
-        "pen": 0.5,
+        "pen": 0.48999999999999994,
         "crit rate%": 1,
-        "crit dmg%": 0.75,
+        "crit dmg%": 0.7,
         "anomaly proficiency": 0
       },
       "1": {
@@ -9098,11 +9208,11 @@
       "substat_values": {
         "hp": 0,
         "hp%": 0,
-        "atk": 0.25,
+        "atk": 0.48999999999999994,
         "atk%": 1,
         "def": 0,
         "def%": 0,
-        "pen": 0.625,
+        "pen": 0.7,
         "crit rate%": 0,
         "crit dmg%": 0,
         "anomaly proficiency": 1

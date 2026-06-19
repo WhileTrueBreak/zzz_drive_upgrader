@@ -1,18 +1,18 @@
 {
   "disks": {
-    "inferno metal": [
+    "dawn's bloom": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
+          "atk": 0.24009999999999992,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.4375,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.625
+          "anomaly proficiency": 0.48999999999999994
         },
         "1": {
           "main_stats": [
@@ -58,14 +58,14 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
+          "atk": 0.24009999999999992,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.4375,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.625
+          "anomaly proficiency": 0.48999999999999994
         },
         "1": {
           "main_stats": [
@@ -106,125 +106,19 @@
         ]
       }
     ],
-    "puffer electro": [
+    "inferno metal": [
       {
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
+          "atk": 0.24009999999999992,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.4375,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.625
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "atk%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "pen ratio%",
-            "atk%",
-            "fire dmg%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "soldier-11"
-        ]
-      }
-    ],
-    "dawn's bloom": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.4375,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0.625
-        },
-        "1": {
-          "main_stats": [
-            "hp"
-          ]
-        },
-        "2": {
-          "main_stats": [
-            "atk"
-          ]
-        },
-        "3": {
-          "main_stats": [
-            "def"
-          ]
-        },
-        "4": {
-          "main_stats": [
-            "crit rate%",
-            "atk%",
-            "crit dmg%"
-          ]
-        },
-        "5": {
-          "main_stats": [
-            "pen ratio%",
-            "atk%",
-            "fire dmg%"
-          ]
-        },
-        "6": {
-          "main_stats": [
-            "atk%"
-          ]
-        },
-        "char": [
-          "soldier-11"
-        ]
-      }
-    ],
-    "hormone punk": [
-      {
-        "substat_values": {
-          "hp": 0,
-          "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
-          "def": 0,
-          "def%": 0,
-          "pen": 0.4375,
-          "crit rate%": 1,
-          "crit dmg%": 1,
-          "anomaly proficiency": 0.625
+          "anomaly proficiency": 0.48999999999999994
         },
         "1": {
           "main_stats": [
@@ -270,14 +164,14 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
+          "atk": 0.24009999999999992,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.4375,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.625
+          "anomaly proficiency": 0.48999999999999994
         },
         "1": {
           "main_stats": [
@@ -323,14 +217,120 @@
         "substat_values": {
           "hp": 0,
           "hp%": 0,
-          "atk": 0.25,
-          "atk%": 0.8125,
+          "atk": 0.24009999999999992,
+          "atk%": 0.7,
           "def": 0,
           "def%": 0,
-          "pen": 0.4375,
+          "pen": 0.3429999999999999,
           "crit rate%": 1,
           "crit dmg%": 1,
-          "anomaly proficiency": 0.625
+          "anomaly proficiency": 0.48999999999999994
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ],
+    "puffer electro": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.24009999999999992,
+          "atk%": 0.7,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.3429999999999999,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.48999999999999994
+        },
+        "1": {
+          "main_stats": [
+            "hp"
+          ]
+        },
+        "2": {
+          "main_stats": [
+            "atk"
+          ]
+        },
+        "3": {
+          "main_stats": [
+            "def"
+          ]
+        },
+        "4": {
+          "main_stats": [
+            "crit rate%",
+            "atk%",
+            "crit dmg%"
+          ]
+        },
+        "5": {
+          "main_stats": [
+            "pen ratio%",
+            "atk%",
+            "fire dmg%"
+          ]
+        },
+        "6": {
+          "main_stats": [
+            "atk%"
+          ]
+        },
+        "char": [
+          "soldier-11"
+        ]
+      }
+    ],
+    "hormone punk": [
+      {
+        "substat_values": {
+          "hp": 0,
+          "hp%": 0,
+          "atk": 0.24009999999999992,
+          "atk%": 0.7,
+          "def": 0,
+          "def%": 0,
+          "pen": 0.3429999999999999,
+          "crit rate%": 1,
+          "crit dmg%": 1,
+          "anomaly proficiency": 0.48999999999999994
         },
         "1": {
           "main_stats": [

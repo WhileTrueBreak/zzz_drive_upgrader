@@ -13,7 +13,7 @@ from colorama import just_fix_windows_console
 from colorama import Fore, Back, Style
 just_fix_windows_console()
 
-NORMALISE_TARGET_VALUE = 4
+NORMALISE_TARGET_VALUE = 10
 
 def load_disk_builds(file):
     with open(file, 'r') as f:
@@ -122,14 +122,16 @@ def parse_substat_build(substats_str):
 
     substat_values = {"hp": 0, "hp%": 0, "atk": 0, "atk%": 0, "def": 0, "def%": 0, "pen": 0, "crit rate%": 0, "crit dmg%": 0, "anomaly proficiency": 0}
     current_value = 1
-    low_value = 0.25
-    decrease_factor = (1-low_value)/ranking_symbols.count('>')
+    tier_factor = 0.7
+    # low_value = 0.25
+    # decrease_factor = (1-low_value)/ranking_symbols.count('>')
 
     for i, substat in enumerate(substats):
         substat_index = next((i for i, s in enumerate(substat) if s), None)
         substat_values[keys[substat_index]] = current_value
         if i == len(substats) - 1: break
-        if ranking_symbols[i] == '>': current_value -= decrease_factor
+        if ranking_symbols[i] == '>': current_value *= tier_factor
+        # if ranking_symbols[i] == '>': current_value -= decrease_factor
     return [substat_values]
 
 def map_main_stats(name):
@@ -238,12 +240,14 @@ def normalise_build_values(disk_builds, target_value=4):
         for disk_build in disk_builds[disk_name]:
             remap_substat_values(disk_build['substat_values'], target_value=target_value)
 
-def remap_substat_values(substat_values, target_value=4):
+def remap_substat_values(substat_values, target_value=10):
     nonzero_substat_values = {key: value for key, value in substat_values.items() if value != 0}
     vals = nonzero_substat_values.values()
 
-    top_4_vals = sorted(vals, reverse=True)[:4]
-    multiplier = target_value/sum(top_4_vals)
+    sorted_vals = sorted(vals, reverse=True)
+    top_4_vals = sorted_vals[:4]
+    top_val = sorted_vals[0]
+    multiplier = target_value/(sum(top_4_vals)+top_val*4)
 
     # print(f'prev:{substat_values}')
     for key in nonzero_substat_values:
@@ -305,7 +309,6 @@ def element_color_map(element):
         return Fore.LIGHTGREEN_EX
     return Fore.LIGHTBLACK_EX
     
-
 if __name__ == "__main__":
     char_links = get_all_character_build_page()
 
