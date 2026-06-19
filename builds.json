@@ -4964,16 +4964,13 @@
       "4": {
         "main_stats": [
           "crit dmg%",
-          "crit rate%",
-          "atk%"
+          "crit rate%"
         ]
       },
       "5": {
         "main_stats": [
           "fire dmg%",
-          "atk%",
-          "pen ratio%",
-          "electric dmg%"
+          "atk%"
         ]
       },
       "6": {
@@ -5679,16 +5676,13 @@
       "4": {
         "main_stats": [
           "crit dmg%",
-          "crit rate%",
-          "atk%"
+          "crit rate%"
         ]
       },
       "5": {
         "main_stats": [
           "fire dmg%",
-          "atk%",
-          "pen ratio%",
-          "electric dmg%"
+          "atk%"
         ]
       },
       "6": {
@@ -7973,16 +7967,13 @@
       "4": {
         "main_stats": [
           "crit dmg%",
-          "crit rate%",
-          "atk%"
+          "crit rate%"
         ]
       },
       "5": {
         "main_stats": [
           "fire dmg%",
-          "atk%",
-          "pen ratio%",
-          "electric dmg%"
+          "atk%"
         ]
       },
       "6": {

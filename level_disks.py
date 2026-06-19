@@ -65,11 +65,12 @@ main_stat_values = {
     "crit dmg%":            [12, 19.2, 26.4, 33.6, 40.8, 48],
     "anomaly proficiency":  [23, 36, 50, 64, 78, 92],
     "pen ratio%":           [6, 9.6, 13.2, 16.8, 20.4, 24],
-    "physical dmg bonus%":  [7.5, 12, 16.5, 21, 25.5, 30],
-    "fire dmg bonus%":      [7.5, 12, 16.5, 21, 25.5, 30],
-    "ice dmg bonus%":       [7.5, 12, 16.5, 21, 25.5, 30],
-    "electric dmg bonus%":  [7.5, 12, 16.5, 21, 25.5, 30],
-    "ether dmg bonus%":     [7.5, 12, 16.5, 21, 25.5, 30],
+    "physical dmg%":        [7.5, 12, 16.5, 21, 25.5, 30],
+    "fire dmg%":            [7.5, 12, 16.5, 21, 25.5, 30],
+    "ice dmg%":             [7.5, 12, 16.5, 21, 25.5, 30],
+    "electric dmg%":        [7.5, 12, 16.5, 21, 25.5, 30],
+    "ether dmg%":           [7.5, 12, 16.5, 21, 25.5, 30],
+    "wind dmg%":            [7.5, 12, 16.5, 21, 25.5, 30],
     "anomaly mastery%":     [7.5, 12, 16.5, 21, 25.5, 30],
     "energy regen%":        [15, 24, 33, 42, 51, 60],
     "impact%":              [4.5, 7.2, 9.9, 12.6, 15.3, 18],
@@ -224,18 +225,21 @@ def check_disk_user(disk, disk_builds, threshold=DISK_THRESHOLDS, main_stat_valu
         is_main_stat_good = is_disk_main_stat_good(disk, disk_build)
         if is_main_stat_good == None:
             continue
-        disk_potential, _ = calc_disk_potental(disk, disk_build)
+        disk_potential, all_combos = calc_disk_potental(disk, disk_build)
         if disk_potential == None:
             continue
+        sorted_values = sorted(all_combos)
+        top_percentile = sorted_values[int(len(sorted_values) * (1-threshold[disk['disk_num']]['top_percentile'])):]
+        avg_top_percentile = sum(top_percentile) / len(top_percentile)
         if is_main_stat_good:
-            disk_potential += main_stat_value
-        if disk_potential < threshold[disk['disk_num']]['sub_stat_threshold']:
+            avg_top_percentile += main_stat_value
+        if avg_top_percentile < threshold[disk['disk_num']]['sub_stat_threshold']:
             continue
         for char in disk_build['char']:
             if char in users:
-                users[char].append(disk_potential)
+                users[char].append(avg_top_percentile)
             else:
-                users[char] = [disk_potential]
+                users[char] = [avg_top_percentile]
         # users.extend(disk_build['char'])
     return users
 
@@ -294,11 +298,11 @@ def update_all_disks(disk_builds):
                 break
         else:
             print(f'Num disks left: {num_disks}')
-        if num_disks == 0:
-            break
         
         upgrade_current_disk(disk_builds)
         if STOP_FLAG: 
+            break
+        if num_disks <= 1:
             break
         cycle_next()
         if STOP_FLAG: 
